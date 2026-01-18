@@ -21,7 +21,7 @@
 
 ---
 
-<h3 align="left">Languages & Tools (Grouped)</h3>
+<h3 align="left">Languages & Tools </h3>
 
 <!-- Programming Languages -->
 
