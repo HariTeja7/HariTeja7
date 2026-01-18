@@ -73,7 +73,6 @@
 <p align="left">
   <b>Data Engineering & Big Data</b><br/>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="40" height="40"/></a>
-  <span>Data Warehousing</span> • <span>Data Mining</span>
 </p>
 
 <!-- Cloud, DevOps & Platform -->
