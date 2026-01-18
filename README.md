@@ -2,10 +2,8 @@
 
 ### A passionate software developer
 
-* 🔭 I'm currently working on **Highly scalable applications**
 * 🌱 I'm currently learning **Distributed Systems & Cloud**
 * 👯 I'm looking to collaborate on **Front End and DevOps**
-* 🤝 I'm looking for help with **Learning Systems Design**
 * 💬 Ask me about **Web Development, Cloud Applications & Data Engineering**
 * 📫 How to reach me **[maramgantihariteja7@gmail.com](mailto:maramgantihariteja7@gmail.com)**
 
