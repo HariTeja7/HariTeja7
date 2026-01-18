@@ -1,18 +1,15 @@
-# Hi 👋, I'm Hari Teja Maramganti
+# Hi 👋, I'm Hari
 
 ### A passionate software developer
 
-- 🔭 I'm currently working on **Highly scalable applications**
+* 🔭 I'm currently working on **Highly scalable applications**
+* 🌱 I'm currently learning **Distributed Systems & Cloud**
+* 👯 I'm looking to collaborate on **Front End and DevOps**
+* 🤝 I'm looking for help with **Learning Systems Design**
+* 💬 Ask me about **Web Development, Cloud Applications & Data Engineering**
+* 📫 How to reach me **[maramgantihariteja7@gmail.com](mailto:maramgantihariteja7@gmail.com)**
 
-- 🌱 I'm currently learning **Distributed Systems & Cloud**
-
-- 👯 I'm looking to collaborate on **Front End and Devops**
-
-- 🤝 I'm looking for help with **Learning Systems Design**
-
-- 💬 Ask me about **Web Development,Cloud Applications & Data Engineering**
-
-- 📫 How to reach me **maramgantihariteja7@gmail.com**
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,50 +19,67 @@
 <a href="https://leetcode.com/u/HariTeja7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="HariTeja7" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+<h3 align="left">Languages & Tools (Grouped)</h3>
 
 <!-- Programming Languages -->
+
 <p align="left">
-  <b>Programming Languages:</b><br/>
+  <b>Programming Languages</b><br/>
   <a href="#"><img src="https://skillicons.dev/icons?i=java" width="40" height="40"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=python" width="40" height="40"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=js" width="40" height="40"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/></a>
 </p>
 
-<!-- Backend Frameworks -->
+<!-- Backend & APIs -->
+
 <p align="left">
-  <b>Backend Frameworks:</b><br/>
+  <b>Backend & APIs</b><br/>
   <a href="#"><img src="https://skillicons.dev/icons?i=spring" width="40" height="40"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=django" width="40" height="40"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/></a>
 </p>
 
 <!-- Frontend -->
+
 <p align="left">
-  <b>Frontend:</b><br/>
+  <b>Frontend</b><br/>
   <a href="#"><img src="https://skillicons.dev/icons?i=angular" width="40" height="40"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=html" width="40" height="40"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=css" width="40" height="40"/></a>
 </p>
 
-<!-- Databases -->
+<!-- Databases & Storage -->
+
 <p align="left">
-  <b>Databases:</b><br/>
+  <b>Databases & Storage</b><br/>
   <a href="#"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/></a>
 </p>
 
-<!-- Caching -->
+<!-- Caching & Messaging -->
+
 <p align="left">
-  <b>Caching:</b><br/>
+  <b>Caching & Messaging</b><br/>
   <a href="#"><img src="https://skillicons.dev/icons?i=redis" width="40" height="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=kafka" width="40" height="40"/></a>
 </p>
 
-<!-- Cloud & DevOps -->
+<!-- Data Engineering & Big Data -->
+
 <p align="left">
-  <b>Cloud & DevOps:</b><br/>
+  <b>Data Engineering & Big Data</b><br/>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="40" height="40"/></a>
+  <span>Data Warehousing</span> • <span>Data Mining</span>
+</p>
+
+<!-- Cloud, DevOps & Platform -->
+
+<p align="left">
+  <b>Cloud, DevOps & Platform</b><br/>
   <a href="#"><img src="https://skillicons.dev/icons?i=aws" width="40" height="40"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40"/></a>
@@ -73,21 +87,10 @@
   <a href="#"><img src="https://skillicons.dev/icons?i=git" width="40" height="40"/></a>
 </p>
 
-<!-- Messaging & Streaming -->
-<p align="left">
-  <b>Messaging & Streaming:</b><br/>
-  <a href="#"><img src="https://skillicons.dev/icons?i=kafka" width="40" height="40"/></a>
-</p>
+<!-- Observability & Developer Tools -->
 
-<!-- Big Data -->
 <p align="left">
-  <b>Big Data:</b><br/>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="40" height="40"/></a>
-</p>
-
-<!-- Observability & Tools -->
-<p align="left">
-  <b>Observability & Tools:</b><br/>
+  <b>Observability & Developer Tools</b><br/>
   <a href="#"><img src="https://skillicons.dev/icons?i=grafana" width="40" height="40"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=postman" width="40" height="40"/></a>
 </p>
